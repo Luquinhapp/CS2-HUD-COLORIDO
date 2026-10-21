@@ -8,7 +8,7 @@ Teclas de Movimentação (W, A, S, D): Mudam a cor do HUD a cada passo dado.
 Disparo (Mouse1): Altera a cor do HUD ao atirar.   
 Rolagem do Mouse (Wheel Up / Wheel Down): Alterna a cor ao utilizar o pulo na roda do mouse.
 
-Como Instalar e UsarBaixe ou copie o arquivo hud_colorido.cfg (ou o nome que preferir).   
+Para baixar copie o arquivo hud_colorido.cfg (ou o nome que preferir).   
 Cole o arquivo no diretório de configurações do CS2, geralmente localizado em:
 
 \steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
